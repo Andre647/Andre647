@@ -1,7 +1,7 @@
 <h1 align="center">Ola 👋, sou André Garcia</h1>
 <h3 align="center">Cientista de Dados</h3>
 
-<img align="right" alt="HiPic" width="400" src="https://media1.tenor.com/m/m3Gl-AOxRx8AAAAC/pokemon-pikachu.gif">
+<img align="right" alt="HiPic" width="200" src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif">
 
 - 🌱 Atualmente estou cursando o **Curso Profissionalizante Ciência de Dados EBAC**
 
