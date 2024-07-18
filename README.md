@@ -11,6 +11,8 @@
 
 - 📄 Meu curriculo pode ser visualizado [aqui](https://drive.google.com/file/d/1MfU9yp2uL3tqyMrSOMqfcuiggU10FyV0/view?usp=drive_link)
 
+- 📝 Meu ultimo projeto desenvolvido se encontra [aqui](https://github.com/Andre647/Drug_Consumption) 
+
 - ⚡ Fun fact **adoro musicas indie e jogar souls like =)**
 
 <h3 align="left">Conecte-se Comigo:</h3>
