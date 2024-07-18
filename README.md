@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://www.datascienceportfol.io/Andre647">
+        <img src="https://camo.githubusercontent.com/9fe441ece0cdf6873b721617971ad9d239752740bca0453eee9aa112275bb1ea/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65622f35302f38372f65623530383735613638623034623034383066613932396166326337353437632e676966" alt="MasterHead" />
+    </a>
+</p>
 <h1 align="center">Ola 👋, sou André Garcia</h1>
 <h3 align="center">Cientista de Dados</h3>
 
