@@ -1,15 +1,17 @@
-<h1 align="center">Ola 👋, meu nome é André Garcia</h1>
+<h1 align="center">Ola 👋, sou André Garcia</h1>
 <h3 align="center">Cientista de Dados</h3>
 
-- 🌱 Atualmente estou estudando o **Curso Profissionalizante Ciência de Dados EBAC**
+<img align="right" alt="HiPic" width="400" src="https://media1.tenor.com/m/m3Gl-AOxRx8AAAAC/pokemon-pikachu.gif">
+
+- 🌱 Atualmente estou cursando o **Curso Profissionalizante Ciência de Dados EBAC**
 
 - 👨‍💻 É possível acessar meu portfolio [aqui](https://www.datascienceportfol.io/Andre647)
 
 - 📫 Vôce pode me contatar através do email **amonteiro647@gmail.com**
 
-- 📄 Meu curriculo é [inserir depois]
+- 📄 Meu curriculo pode ser visualizado [aqui](https://drive.google.com/file/d/1MfU9yp2uL3tqyMrSOMqfcuiggU10FyV0/view?usp=drive_link)
 
-- ⚡ Fun fact **Adoro musicas indie e jogar souls like =)**
+- ⚡ Fun fact **adoro musicas indie e jogar souls like =)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
