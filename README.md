@@ -8,17 +8,20 @@
 
 <img align="right" alt="HiPic" width="200" src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif">
 
-- 🌱 Atualmente estou cursando o **Curso Profissionalizante Ciência de Dados EBAC**
+- 🌱 Cursando **Curso Profissionalizante Ciência de Dados EBAC**
 
-- 👨‍💻 É possível acessar meu portfolio [aqui](https://www.datascienceportfol.io/Andre647)
+- 👨‍💻  [Portfólio](https://www.datascienceportfol.io/Andre647)
 
-- 📫 Vôce pode me contatar através do email **amonteiro647@gmail.com**
+- 📫  **amonteiro647@gmail.com**
 
-- 📄 Meu curriculo pode ser visualizado [aqui](https://drive.google.com/file/d/1MfU9yp2uL3tqyMrSOMqfcuiggU10FyV0/view?usp=drive_link)
+- 📄  [Curriculo](https://drive.google.com/file/d/1MfU9yp2uL3tqyMrSOMqfcuiggU10FyV0/view?usp=drive_link)
 
-- 📝 Meu ultimo projeto desenvolvido se encontra [aqui](https://github.com/Andre647/Drug_Consumption) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre647&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⚡ Fun fact **adoro musicas indie e jogar souls like =)**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andre647&repo=Drug_Consumption&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
