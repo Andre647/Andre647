@@ -18,7 +18,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre647&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andre647&repo=Drug_Consumption&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andre647&repo=Drug_Consumption&theme=dark)](https://github.com/Andre647/Drug_Consumption)
 
 
 
