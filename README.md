@@ -1,16 +1,16 @@
 </p>
-<h1 align="center">Ola 👋, sou André Garcia</h1>
-<h3 align="center">Cientista de Dados</h3>
+<h1 align="center">Ola 👋, sou André Monteiro</h1>
+<h3 align="center">AI Engineer/ Data Scientist</h3>
 
 <img align="right" alt="HiPic" width="200" src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif">
 
-- 🌱 Cursando **Curso Profissionalizante Ciência de Dados EBAC**
+- 🌱 Graduated in **Curso Profissionalizante Ciência de Dados EBAC**
 
 - 👨‍💻  [Portfólio](https://www.datascienceportfol.io/Andre647)
 
 - 📫  **amonteiro647@gmail.com**
 
-- 📄  [Curriculo](https://drive.google.com/file/d/1MfU9yp2uL3tqyMrSOMqfcuiggU10FyV0/view?usp=drive_link)
+- 📄  [Curriculum](https://drive.google.com/file/d/1MfU9yp2uL3tqyMrSOMqfcuiggU10FyV0/view?usp=drive_link)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre647&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
