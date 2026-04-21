@@ -1,5 +1,5 @@
 </p>
-<h1 align="center">Hello 👋, im André Monteiro</h1>
+<h1 align="center">Hello 👋, I'm André Monteiro</h1>
 <h3 align="center">AI Engineer/ Data Scientist</h3>
 
 <img align="right" alt="HiPic" width="200" src="https://media.tenor.com/KuCmU3O8vQUAAAAj/snoopy.gif">
