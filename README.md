@@ -6,7 +6,7 @@
 
 - 🌱 Graduated in **Curso Profissionalizante Ciência de Dados EBAC**
 
-- 👨‍💻  [Portfólio](https://www.datascienceportfol.io/Andre647)
+- 👨‍💻  [Portfolio](https://www.datascienceportfol.io/Andre647)
 
 - 📫  **amonteiro647@gmail.com**
 
